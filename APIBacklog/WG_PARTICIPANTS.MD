@@ -11,3 +11,5 @@
 | Vodafone | Kevin Smith  |
 | Vodafone | Eric Murray  |
 | Vodafone | Iván Nieto  |
+| Orange | Sylvain Morel|
+| Orange | Jerôme Larrodé | 
